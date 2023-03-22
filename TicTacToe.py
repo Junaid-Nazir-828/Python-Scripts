@@ -1,3 +1,7 @@
+# Note that this is result of just couple of tries, there can be made some improvement
+# For example : for now it checks win states for both players after every turn,it can
+# be modified in a way to check win state for the player taking turn.
+
 class TicTacToe:
     
     def __init__(self):
